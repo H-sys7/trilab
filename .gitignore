@@ -1,0 +1,7 @@
+# Fichiers de compilation
+build/
+*.o
+*.a
+
+# Paquets de relecture (générés dans build/, par sécurité)
+review_*.md
